@@ -1,0 +1,1 @@
+Completed a Time-Series Forecasting project, utilizing data analysis and feature engineering techniques. Implemented supervised machine learning models, including Linear Regression, SARIMAX, Neural Network, and LightGBM, to forecast based on historical data. Gained skills in Machine Learning, scikit-learn, numpy, and Python.
